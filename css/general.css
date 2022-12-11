@@ -1,0 +1,9 @@
+article {
+    padding: 50px 50px;
+    border-radius: 7px;
+    border: solid 2px black;
+    background-color: white;
+}
+h3 {
+    padding: 2px;
+}
